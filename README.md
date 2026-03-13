@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Wizz-Qxi5
-- 👀 I’m interested in HTML/CSS
+ Hi, I’m @Wizz-Qxi5
+  
   
 
 <!---
